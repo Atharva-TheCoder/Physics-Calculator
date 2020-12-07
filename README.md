@@ -12,6 +12,6 @@
 
 ## RUN
 
-* `cd`
+* `cd Physics-Calculator`
 * `ls`
 * `python physics_calc.py`
