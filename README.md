@@ -1,4 +1,4 @@
-# Physics-Calculator
+## Physics-Calculator
 ### Code by Atharva-TheCoder
 
 ## INSTALLATION [Termux] :
