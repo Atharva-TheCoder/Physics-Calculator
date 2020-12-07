@@ -14,4 +14,4 @@
 
 * `cd`
 * `ls`
-* `python Physics-Calculator.py`
+* `python physics_calc.py`
