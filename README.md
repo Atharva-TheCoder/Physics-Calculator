@@ -15,3 +15,16 @@
 * `cd Physics-Calculator`
 * `ls`
 * `python physics_calc.py`
+
+## Update
+
+* `cd $HOME && ls`
+* `cd Physics-Calculator`
+* `chmod +x *`
+* `./update.sh`
+
+OR
+
+* `cd $HOME && ls`
+* `cd Physics-Calculator`
+* `bash update.sh`
