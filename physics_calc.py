@@ -15,6 +15,7 @@ print (red+"""
 (__)  (_) (_) (__) (___/(____)\___)(___/  \___)(__)(__)(____)\___)
                                                          v 1.0
 """+red) 
+print (lgreen+bold+"    <===[[ coded by @tharva-TheHacker ]]===> \n"+clear)
 
 while True:
     print("1. Velocity")
