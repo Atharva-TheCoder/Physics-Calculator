@@ -9,20 +9,22 @@ cyan = '\033[96m'
 
 #banner of script
 print (yellow+"""
-
-(  _ \( )_( )( \/ )/ __)(_  _)/ __)/ __)  / __)  /__\  (  )  / __)
- )___/ ) _ (  \  / \__ \ _)(_( (__ \__ \ ( (__  /(__)\  )(__( (__ 
-(__)  (_) (_) (__) (___/(____)\___)(___/  \___)(__)(__)(____)\___)
-                                                         v 1.0
-"""+yellow) 
-print (lgreen+bold+"        <===[[ coded by @tharva-TheHacker ]]===> \n"+clear)
+ ____  _  _  _  _  ____  __  ___  ____    ___   __   __     ___ 
+(  _ \/ )( \( \/ )/ ___)(  )/ __)/ ___)  / __) / _\ (  )   / __)
+ ) __/) __ ( )  / \___ \ )(( (__ \___ \ ( (__ /    \/ (_/\( (__ 
+(__)  \_)(_/(__/  (____/(__)\___)(____/  \___)\_/\_/\____/ \___) """+yellow) 
+print (lgreen+"""                                    +-+-+-+-+
+                                                     |v|1|.|0|
+                                                     +-+-+-+-+ """+lgreen)
+                                                         
+print (lgreen+bold+"          <===[[ coded by @tharva-TheHacker ]]===> \n"+clear)
 
 while True:
-    print("1. Velocity")
-    print("2. Displacement")
-    print("3. Time")
-    print("4. Acceleration")
-    print("5. Exit")
+    print(cyan+"1. Velocity"+cyan)
+    print(cyan+"2. Displacement"+cyan)
+    print(cyan+"3. Time"+cyan)
+    print(cyan+"4. Acceleration"+cyan)
+    print(cyan+"5. Exit"+cyan)
     choice = int(input("Enter your choice: "))
     if (choice>=1 and choice<=4
 ):
