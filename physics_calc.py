@@ -8,14 +8,14 @@ bold = '\033[01m'
 cyan = '\033[96m'
 
 #banner of script
-print (red+"""
+print (yellow+"""
 
 (  _ \( )_( )( \/ )/ __)(_  _)/ __)/ __)  / __)  /__\  (  )  / __)
  )___/ ) _ (  \  / \__ \ _)(_( (__ \__ \ ( (__  /(__)\  )(__( (__ 
 (__)  (_) (_) (__) (___/(____)\___)(___/  \___)(__)(__)(____)\___)
                                                          v 1.0
-"""+red) 
-print (lgreen+bold+"    <===[[ coded by @tharva-TheHacker ]]===> \n"+clear)
+"""+yellow) 
+print (lgreen+bold+"        <===[[ coded by @tharva-TheHacker ]]===> \n"+clear)
 
 while True:
     print("1. Velocity")
