@@ -23,7 +23,7 @@ while True:
     print(cyan+"3. Time"+cyan)
     print(cyan+"4. Acceleration"+cyan)
     print(cyan+"5. Exit"+cyan)
-    choice = int(input(yellow+"Enter your choice:"+yellow , lgreen+" "+lgreen))
+    choice = int(input("Enter your choice: "))
     if (choice>=1 and choice<=4
 ):
        print ('Please enter the values in SI units only')
