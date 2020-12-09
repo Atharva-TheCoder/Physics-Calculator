@@ -13,7 +13,7 @@ print (yellow+"""
 (  _ \/ )( \( \/ )/ ___)(  )/ __)/ ___)  / __) / _\ (  )   / __)
  ) __/) __ ( )  / \___ \ )(( (__ \___ \ ( (__ /    \/ (_/\( (__ 
 (__)  \_)(_/(__/  (____/(__)\___)(____/  \___)\_/\_/\____/ \___) """+yellow) 
-print (lgreen+"""                                                      (v 1.0)"""+lgreen)
+print (lgreen+"""                                                        (v 1.0)"""+lgreen)
                                                          
 print (lgreen+bold+"          <===[[ coded by @tharva-TheHacker ]]===> \n"+clear)
 
