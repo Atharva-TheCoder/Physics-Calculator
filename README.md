@@ -14,7 +14,14 @@
 
 * `cd Physics-Calculator`
 * `ls`
-* `python physics_calc.py`
+* `bash run.sh`
+
+OR 
+
+* `cd Physics-Calculator`
+* `ls`
+* `chmod +x *`
+* `./run.sh`
 
 ## Update
 
