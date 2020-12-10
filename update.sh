@@ -39,7 +39,7 @@ git clone https://github.com/Atharva-TheCoder/Physics-Calculator
 clear
 echo " "
 echo -e "$grn               Calculator has been updated check it now...
-                     Still there is problem, update again...$rset"
+                Still there is problem, update again...$rset"
 sleep 4.0
 echo " "
 cd $HOME
