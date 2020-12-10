@@ -7,7 +7,7 @@ echo '╔═══════════╗
 ║──│──│──│──║                                                           (v 1.0)
 ║──│──[░░░░]║              <===[[ coded by @tharva-TheHacker ]]===>
 ╚═══════════╝ ' |lolcat
-cd Physics-Calculator
+echo " "
 python physics_calc.py
 
 
