@@ -7,16 +7,6 @@ clear = '\033[0m'
 bold = '\033[01m'
 cyan = '\033[96m'
 
-#banner of script
-print (yellow+"""
- ____  _  _  _  _  ____  __  ___  ____    ___   __   __     ___ 
-(  _ \/ )( \( \/ )/ ___)(  )/ __)/ ___)  / __) / _\ (  )   / __)
- ) __/) __ ( )  / \___ \ )(( (__ \___ \ ( (__ /    \/ (_/\( (__ 
-(__)  \_)(_/(__/  (____/(__)\___)(____/  \___)\_/\_/\____/ \___) """+yellow)
-print (lgreen+"""                                                        (v 1.0)"""+lgreen)
-                                                         
-print (lgreen+bold+"          <===[[ coded by @tharva-TheHacker ]]===> \n"+clear)
-
 while True:
     print(cyan+"1. Velocity"+cyan)
     print(cyan+"2. Displacement"+cyan)
@@ -26,7 +16,7 @@ while True:
     choice = int(input("Enter your choice: "))
     if (choice>=1 and choice<=4
 ):
-       print ('Please enter the values in SI units only')
+       print (yellow+'Please enter the values in SI units only'+clear)
 
        if choice == 1:
           x = int(input("Displacement(x) : "))
