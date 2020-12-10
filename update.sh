@@ -38,8 +38,9 @@ rm -rf Physics-Calculator
 git clone https://github.com/Atharva-TheCoder/Physics-Calculator  
 clear
 echo " "
-echo -e "$grn               Calculator has been updated check it now...$rset"
-sleep 3.0
+echo -e "$grn               Calculator has been updated check it now...
+                     Still there is problem, update again...$rset"
+sleep 4.0
 echo " "
 cd $HOME
 cd Physics-Calculator 
