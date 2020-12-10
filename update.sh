@@ -43,6 +43,6 @@ sleep 3.0
 echo " "
 cd $HOME
 cd Physics-Calculator 
-python physics_calc.py
+bash run.sh
 clear
 sleep 1.0 
