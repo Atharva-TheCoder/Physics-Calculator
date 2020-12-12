@@ -2,6 +2,10 @@ clear
 echo " "
 cd $HOME
 cd Physics-Calculator
+clear
+echo '             WELCOME...             '
+sleep 2.0
+clear
 echo " "
 echo '╔═══════════╗
 ║███████████║    ___   _  _  _  _  ____  __  ___  ____    ___   __   __     ___
