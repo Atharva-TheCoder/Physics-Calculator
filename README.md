@@ -1,5 +1,5 @@
 ## Physics-Calculator
-### Code by Atharva-TheCoder
+### Coded by Atharva-TheCoder
 
 ## INSTALLATION [Termux] :
 
