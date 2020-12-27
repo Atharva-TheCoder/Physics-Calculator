@@ -37,12 +37,14 @@ cd $HOME
 rm -rf Physics-Calculator 
 git clone https://github.com/Atharva-TheCoder/Physics-Calculator  
 clear
+sleep 2.0
 echo " "
 echo -e "$grn               Calculator has been updated check it now...
                 Still there is problem, update again...$rset"
 sleep 4.0
 echo " "
 cd $HOME
+cd Physics-Calculator
 clear
-
+bash runcalc.sh
 
