@@ -38,6 +38,9 @@ echo '       Making some changes...       '
 cd 
 cd Physics-Calculator
 chmod +x runcalc.sh
+chmod +x updatecalc.sh
+cp runcalc.sh /data/data/com.termux/files/usr/bin
+cp updatecalc.sh /data/data/com.termux/files/usr/bin
 sleep 2.0
 clear
 echo '   Installation completed...   '
