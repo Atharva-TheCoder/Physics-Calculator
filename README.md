@@ -15,17 +15,7 @@
 
 ## RUN
 
-* `cd $HOME`
-* `cd Physics-Calculator`
-* `ls`
-* `bash run.sh`
-
-OR 
-
-* `cd Physics-Calculator`
-* `ls`
-* `chmod +x *`
-* `./run.sh`
+* `./runcalc.sh` in any directory
 
 ## Update
 
