@@ -43,8 +43,6 @@ echo -e "$grn               Calculator has been updated check it now...
 sleep 4.0
 echo " "
 cd $HOME
-cd Physics-Calculator 
-bash run.sh
 clear
-sleep 1.0 
+
 
