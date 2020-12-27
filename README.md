@@ -15,19 +15,10 @@
 
 ## RUN
 
-* `./runcalc.sh` in any directory
+* Type `./runcalc.sh` in any directory to run the calculator.
 
 ## Update
 
-* `cd $HOME`
-* `cd Physics-Calculator`
-* `chmod +x *`
-* `./update.sh`
-
-OR
-
-* `cd $HOME && ls`
-* `cd Physics-Calculator`
-* `bash update.sh`
+* Type `./updatecalc.sh` in any directory to update calculator.
 
 Note: If there is still issue after updating then update twice...
